@@ -1,7 +1,7 @@
 <h1 align="center">Hello octave here </h1>
 
 <p align="center">
-  A passionate full stack developer who loves building tools that make life easier. Always exploring, always building.with my friend bonheur 
+  A passionate full stack developer who loves building tools that make life easier. Always exploring, always building.with my friend @bonheur15 
 </p>
 
 ## 🚀 Tools I Built
