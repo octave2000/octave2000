@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm Bonheur 👋</h1>
+<h1 align="center">Hello octave here </h1>
 
 <p align="center">
-  A passionate full stack developer who loves building tools that make life easier. Always exploring, always building.
+  A passionate full stack developer who loves building tools that make life easier. Always exploring, always building.with my friend bonheur 
 </p>
 
 ## 🚀 Tools I Built
