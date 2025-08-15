@@ -11,9 +11,8 @@
 | 🧩 **Fuse UI**                 | Beautiful, functional, and extendable React components built on shadcn/ui.                                | React, shadcn/ui, Tailwind CSS   | [Repo](https://github.com/bonheur15/fuse-ui) _(Open for Contrubution)_ |
 | 🛠️ **Go DB Manager**           | REST API server to manage MySQL, PostgreSQL, and MongoDB easily.                                          | Go                               | [Repo](https://github.com/bonheur15/go-db-manager) _(Full Tested)_     |
 | 🌍 **RegionalNext**            | Test your API speed across the globe. Fast, free, and super easy to use.                                  | TypeScript, Node.js              | _Alpha_ [Try Now](https://regionalnext.vercel.app/)                    |
-| 🧪 **Master DB Studio**        | A self hostable, modern universal DB viewer for Mongo, MySQL, PostgreSQL.                                 | Electron, React, Node.js         | _Beta_ [Try Now](https://master-db-studio.vercel.app/)                 |
+| 🧪 **Master DB Studio**        | A self hostable, modern universal DB viewer for Mongo, MySQL, PostgreSQL.                                 | Electron, React, Node.js         | _Beta_ [Try Now](https://master-database-studio.vercel.app/)           |
 | 🌐 **Realsync**                | Low cost WebSocket service with event scheduling. Easy to integrate.                                      | Node.js, Redis                   | _(SDK Coming Soon)_                                                    |
-| 🎮 **Simple Pokémon Game**     | 2 player game built on Realsync. Pick Pokémon before your opponent to win!                                | React, WebSockets (Realsync)     | [Play Now](https://simple-pokemon-preview.vercel.app/game)             |
 | 🦴 **BootApi**                 | File-based API framework using Fastify & Bun. Supports middleware, caching, CLI scaffolding.              | TypeScript, Fastify, Bun         | [Docs](https://github.com/bonheur15/boot-api) _(In Progress)_          |
 
 > _“Alpha stage are stable but not tested.”_
