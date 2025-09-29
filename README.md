@@ -41,13 +41,8 @@
 ---
 
 <details>
-<summary>🔧 Other Cool Tools</summary>
 
-- ⚙️ CLI IP Scanner
-- 🕵️‍♂️ Comment Bot for Social Engagement
-- 📡 MT5 Auto Trading Bridge
-</details>
 
 ---
 
-> _“Stay curious, build boldly.”_
+> _“Much love”_
