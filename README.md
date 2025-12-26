@@ -1,7 +1,7 @@
 <h1 align="center">Octave Nkurunziza</h1>
 
 <p align="center">
-  Full-stack developer with 4 years of experience · Platform & Infrastructure Builder
+  Software Engineer · Platform & Infrastructure Builder
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 ---
 
-## What I do (in practice)
+## What I do
 
 - Build **full-stack platforms** end to end
-- Design **backend systems & APIs** that don’t fall apart
-- Create **developer tools** that reduce friction
+- Design **backend systems & APIs** meant for production
+- Create **developer tools** that remove friction
 - Automate **infrastructure & CI/CD**
-- Work close to the database, not afraid of complexity
+- Work close to the database, comfortable with complexity
 
 I’m most effective where **product, backend, and infrastructure meet**.
 
@@ -26,19 +26,19 @@ I’m most effective where **product, backend, and infrastructure meet**.
 
 ## Things I’ve built
 
-**Hubfly Space**
+**[Hubfly Space](https://hubfly.space)**
 A developer-focused platform to deploy applications and databases with minimal configuration.
-Built with a strong focus on automation, full control, and production readiness.
+Designed around automation, full control, and production-grade workflows.
 
-**MyDBPortal**
-A database management platform that simplifies creating, managing, and monitoring relational databases through a secure,
-intuitive interface, focusing on developer productivity and operational reliability.
+**[MyDBPortal](https://mydbportal.com)**
+A database management platform for creating, managing, and monitoring relational databases.
+Built with a focus on security, operational reliability, and developer productivity.
 
-**Portal Studio**
-A universal, self-hosted database management studio supporting SQL and NoSQL systems.
-Designed for developers who want control without heavy enterprise tooling.
+**[Portal Studio](https://github.com/bonheur15/portal-studio)**
+An internal platform to generate and manage admin dashboards and back-office tools.
+Created to eliminate repetitive engineering work in SaaS products.
 
-> These are not experiments — they are products with real architecture decisions.
+> These are not experiments — they are products with real architectural trade-offs.
 
 ---
 
@@ -55,7 +55,7 @@ Designed for developers who want control without heavy enterprise tooling.
 ## Stack (what I actually use)
 
 **Languages**
-TypeScript, JavaScript, Go, Java
+TypeScript, JavaScript, Go
 
 **Frontend**
 Next.js, React, Tailwind CSS
@@ -73,6 +73,6 @@ AWS, Azure, GCP, Vercel
 ---
 
 <p align="center">
-  <a href="https://hubfly.space">hubfly.space</a> ·
-  <a href="https://github.com/bonheur15">github</a>
+  <a href="https://hubfly.space">hubfly.space</a>
+
 </p>
