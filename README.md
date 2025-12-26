@@ -34,7 +34,7 @@ Designed around automation, full control, and production-grade workflows.
 A database management platform for creating, managing, and monitoring relational databases.
 Built with a focus on security, operational reliability, and developer productivity.
 
-**[Portal Studio](https://github.com/bonheur15/portal-studio)**
+**[Portal Studio](https://studio.mydbportal.com)**
 An internal platform to generate and manage admin dashboards and back-office tools.
 Created to eliminate repetitive engineering work in SaaS products.
 
@@ -74,5 +74,4 @@ AWS, Azure, GCP, Vercel
 
 <p align="center">
   <a href="https://hubfly.space">hubfly.space</a>
-
 </p>
