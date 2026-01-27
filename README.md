@@ -30,6 +30,10 @@ I’m most effective where **product, backend, and infrastructure meet**.
 A developer-focused platform to deploy applications and databases with minimal configuration.
 Designed around automation, full control, and production-grade workflows.
 
+**[Hubmail](https://www.hubmail.space)**
+A developer-first email platform to send, receive, and manage emails via a clean, predictable API.
+Built for SaaS teams who want full control over transactional and inbound email without wrestling with legacy providers, complex SMTP setups, or opaque dashboards.
+
 **[MyDBPortal](https://mydbportal.com)**
 A database management platform for creating, managing, and monitoring relational databases.
 Built with a focus on security, operational reliability, and developer productivity.
