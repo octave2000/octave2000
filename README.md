@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I design and ship real products — from developer tools to deployment platforms.
+  I design and ship real products  from developer tools to deployment platforms.
   <br />
   I focus on systems that scale, stay maintainable, and are actually used.
 </p>
