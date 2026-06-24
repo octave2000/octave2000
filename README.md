@@ -39,7 +39,6 @@ Built with a focus on security, operational reliability, and developer productiv
 An internal platform to generate and manage admin dashboards and back-office tools.
 Created to eliminate repetitive engineering work in SaaS products.
 
-> These are not experiments — they are products with real architectural trade-offs.
 
 ---
 
